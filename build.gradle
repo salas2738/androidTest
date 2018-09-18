@@ -4,6 +4,7 @@ buildscript {
     
     repositories {
         google()
+        // 代码托管仓库，可引用任何jcenter上的项目
         jcenter()
     }
     dependencies {
